@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=andytubeeed)
 ![](https://img.shields.io/badge/Can%20I%20code%3F-Maybe-brightgreen)
 ![](https://img.shields.io/badge/Skill-Software%20Development-yellow)
-![](https://img.shields.io/badge/Skill-React-blue)
-![](https://img.shields.io/badge/Skill-Python-yellow)
 ![](https://img.shields.io/badge/Skill-JavaScript-yellow)
 ![](https://img.shields.io/badge/This-is%20fun-red)
 
