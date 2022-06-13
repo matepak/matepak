@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 </a>
 
 
-## 🏆 GitHub Trophies
+## Trophies 🏅
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=matepak&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
