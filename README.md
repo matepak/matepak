@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=andytubeeed)
+![](https://img.shields.io/badge/Can%20I%20code%3F-Maybe-brightgreen)
+![](https://img.shields.io/badge/Skill-Software%20Development-yellow)
+![](https://img.shields.io/badge/Skill-React-blue)
+![](https://img.shields.io/badge/Skill-Python-yellow)
+![](https://img.shields.io/badge/Skill-JavaScript-yellow)
+![](https://img.shields.io/badge/This-is%20fun-red)
+
+<a href="https://github.com/matepak/matepak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matepak&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Andrew's GitHub Stats" />
+</a>
+
+<a href="https://github.com/matepak/matepak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matepak&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Andrew's GitHub Stats" />
+</a>
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=matepak&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
