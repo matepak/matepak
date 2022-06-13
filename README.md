@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=matepak)
-![](https://img.shields.io/badge/Skill-Software%20Development-yellow)
-![](https://img.shields.io/badge/Skill-JavaScript-yellow)
 
 <a href="https://github.com/matepak/matepak">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matepak&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Andrew's GitHub Stats" />
